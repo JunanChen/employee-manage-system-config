@@ -30,7 +30,7 @@ server:
 spring:
   profiles: prod
   application:
-    name: employee-manage-system-eureka-server-2
+    name: employee-manage-system-eureka-server-3
 
 eureka:
   instance:
