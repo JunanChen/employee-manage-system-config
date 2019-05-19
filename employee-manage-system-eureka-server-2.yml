@@ -25,7 +25,7 @@ eureka:
 
 ---   #生产环境
 server:
-  port: 9002
+  port: 9003
 
 spring:
   profiles: prod
